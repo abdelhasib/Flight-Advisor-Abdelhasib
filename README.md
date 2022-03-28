@@ -189,7 +189,6 @@ You can play and test `Flight Advisor` APIs throughout its **OpenAPI** interface
 1. Go to the landing page at the following URL [http://localhost:8090/flight/service/api/](http://localhost:8090/flight/service/api/).
 2. Follow the link on the page, and you should see the following:
 
-    ![System APIs](docs/images/SystemAPI.png)
 
 3. More beautifully with its UI at [http://localhost:4200/](http://localhost:4200/), and you 
    expect this view for login:
@@ -197,11 +196,8 @@ You can play and test `Flight Advisor` APIs throughout its **OpenAPI** interface
 ![FA-Login ](https://user-images.githubusercontent.com/24509699/160501520-fafb668e-d42a-4534-a65a-13431691183e.png)
 
    
-    ![ClientLogin page](docs/images/FA-Login.png)
    And this view after login, to travel:
    ![System-API](https://user-images.githubusercontent.com/24509699/160501713-7be5fc0b-e18a-4d84-853a-4c4702821cff.png)
-
-    ![System APIs](docs/images/FA-Travel.png)
 
 #### System Behaviour
 1. First, if you want to upload airports or routes (in the data folder) using the **Files upload Management** section: 
