@@ -255,8 +255,6 @@ You can access database through it online console from the following URL [http:/
 - user: `sa`
 - password: `Admin1234`
 
-![System DB](docs/images/SystemDB.png)
-
 Hit test, and it should show a green bar for successful settings. So hit the **Connect** button and explore all data.
 
 ### Stopping The System
